@@ -1,2 +1,0 @@
-# pinturas--miguel
-dada
