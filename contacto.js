@@ -15,7 +15,7 @@ export default async function handler(req, res) {
       },
       body: JSON.stringify({
         from: 'Pinturas Miguel <onboarding@resend.dev>',
-        to: ['abengozar@yahoo.es'], // El correo donde se recibirán los presupuestos
+        to: ['e00554044@gmail.com'], // El correo donde se recibirán los presupuestos
         subject: `Nuevo presupuesto de: ${nombre}`,
         html: `
           <div style="font-family: Arial, sans-serif; color: #333;">
